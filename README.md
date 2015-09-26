@@ -1,9 +1,8 @@
 The Lantern Aosp Project Lollipop 5.1
-===========
 
 To initialize your local repository using the AOSP trees, use a command like this:
 ````bash
-repo init -u git://github.com/L-Aosp/manifest.git -b lollipop-5.1
+repo init -u https://github.com/L-Aosp/manifest.git -b lollipop-5.1
 ```
 Add Moto G resources by typing this:
 ````bash
