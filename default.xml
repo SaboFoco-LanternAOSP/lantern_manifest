@@ -84,7 +84,6 @@
   <project path="external/drm_hwcomposer" name="platform/external/drm_hwcomposer" groups="drm_hwcomposer" />
   <project path="external/droiddriver" name="platform/external/droiddriver" groups="pdk-cw-fs,pdk-fs" />
   <project name="CyanogenMod/android_external_e2fsprogs" path="external/e2fsprogs" groups="pdk" remote="github" revision="cm-13.0" />
-  <project path="external/e2fsprogs" name="platform/external/e2fsprogs" groups="pdk" />
   <project path="external/easymock" name="platform/external/easymock" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/eclipse-basebuilder" name="platform/external/eclipse-basebuilder" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" groups="pdk-cw-fs,pdk-fs" />
@@ -172,7 +171,6 @@
   <project path="external/libvorbis" name="platform/external/libvorbis" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" />
   <project path="external/libvterm" name="platform/external/libvterm" groups="pdk-cw-fs,pdk-fs" />
-  <project path="external/libxml2" name="platform/external/libxml2" groups="pdk-cw-fs,pdk-fs,libxml2" />
   <project name="CyanogenMod/android_external_libxml2" path="external/libxml2" groups="pdk-cw-fs" remote="github" revision="cm-13.0"/>
   <project path="external/libyuv" name="platform/external/libyuv" groups="libyuv,pdk-cw-fs,pdk-fs" />
   <project path="external/linux-tools-perf" name="platform/external/linux-tools-perf" groups="pdk-cw-fs,pdk-fs" />
