@@ -551,7 +551,7 @@
 
   <project name="L-Aosp/manifest" path="manifest" remote="github" revision="M-6.0" />
 
-<!-- Generic MSM8226 -->
+<!-- MSM8974 -->
   <project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8974" remote="github" revision="cm-13.0-caf-8974" />
   <project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8974" remote="github" revision="cm-13.0-caf-8974" />
   <project name="CyanogenMod/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8974" remote="github" revision="cm-13.0-caf-8974" />
